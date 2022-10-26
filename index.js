@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('Webscholar server is running on port', port)
+    console.log('Webscholar server running on port', port)
 });
