@@ -1,0 +1,90 @@
+[
+    {
+      "_id": "01",
+      "course_name": "Secondary Physics",
+      "img_url": "../data/assets/img/physics-1.png",
+      "duration": "10-12 months",
+      "for_class": "9-10",
+      "educator": "Tahsin Rabiul",
+      "price": "4400 Tk",
+      "course_details": "*Physical Quantities And Measurement,*Motion,Force,*Work Power and Energy,*Pressure and States of Matter,*Effect of Heat on Substances,*Waves and Sound,Reflection of Light,*Refraction of Light,*Statical Electricity,*Current Electricity,*Magnetic Effect of Current,*Modern Physics and Electronics,*Physics to save Life",
+      "rating": "4.7"
+    },
+    {
+      "_id": "02",
+      "course_name": "Higher Physics",
+      "img_url": "../data/assets/img/physics-2.png",
+      "duration": "12-14 months",
+      "for_class": "11-12",
+      "educator": "Biswas Farhad & Royal Malek",
+      "price": "5500 Tk",
+      "course_details": "(1*Physical World and Measurement,*Vector,*Dynamics,*Newtonian Mechanics,*Work, energy, and power,*Gravitation and Gravity,*Structural Properties of Matter,*Periodic Motion,*Waves,*Ideal gas and kinetics of gases),(2*Thermodynamics,*Static Electricity,*Current Electricity,*Magnetic Effect of Electric Current and Magnetism,*Electromagnetic Induction and Alternating Current,*Geometrical Optics,*Physical Optics,*Introduction to Modern Physics,*Atom Model and Nuclear Physics,*Semiconductor and Electronics,*Astronomy)",
+      "rating": "4.5"
+    },
+    {
+      "_id": "03",
+      "course_name": "Secondary Chemistry",
+      "img_url": "../data/assets/img/chemistry-1.png",
+      "duration": "10-12 months",
+      "for_class": "9-12",
+      "educator": "Mahmud Mohammad",
+      "price": "4600 Tk",
+      "course_details": "*Concept of Chemistry,*States of Matter,*Structure of Matter,*Periodic Table,*Chemical Bonds,*Concept of Mole and Chemical Calculations,*Chemical Reaction,*Chemistry and Energy,*Acid-Base Balance,*Mineral Resources: Metal-Nonmetal,*Mineral Resources-Fossil,*Chemistry in our Life.",
+      "rating": "4.5"
+    },
+    {
+      "_id": "04",
+      "course_name": "Higher Chemistry",
+      "img_url": "../data/assets/img/chemistry-2.png",
+      "duration": "12-14 months",
+      "for_class": "11-12",
+      "educator": "Ayat Nurjahan & Abdus Arif",
+      "price": "5600 Tk",
+      "course_details": "(1.*Safe use up Laboratory,*Qualitative Chemistry,*Periodic Properties and Chemical Bonding of Elements,*Chemical Changes,*Vocational Chemistry),(2.*Environment Chemistry,*Organic Chemistry,*Quantitative Chemistry,*Electrochemistry,*Economic Chemistry)",
+      "rating": "4.5"
+    },
+    {
+      "_id": "05",
+      "course_name": "Secondary Higher Math",
+      "img_url": "../data/assets/img/higher-math-1.png",
+      "duration": "10-12 months",
+      "for_class": "9-12",
+      "educator": "Abdul Arif",
+      "price": "4500 Tk",
+      "course_details": "*Sets and Functions,*Algebraic Expressions,*Geometry,*Geometric Constructions,*Equations,*Inequality,*Infinite Series,*Trigonometry,*Exponential & Logarithmic Functions,*Binomial Expansion,*Coordinate Geometry,*Vectors in a Plane,*Solid Geometry,*Probability",
+      "rating": "4.8"
+    },
+    {
+      "_id": "06",
+      "course_name": "Higher Math",
+      "img_url": "../data/assets/img/higher-math-2.png",
+      "duration": "12-14 months",
+      "for_class": "11-12",
+      "educator": "Nipah Mahmuda & Noor Jahan",
+      "price": "5500 Tk",
+      "course_details": "(1.*Matrices and Determinants,*Vector,*Straight Lines,*The Circle,*Permutations and Combinations,*Trigonometric Ratios,*Trigonometric Ratios of Associated Angles,*Functions and Graph of Functions,*Differentiation,*Integration),(2.*Real Number and inequalities,*Linear Programming,*Complex Number,*Polynomials and Polynomial Equations,*Binomial Expansions,*Conics,*Inverse Trigonometric Functions and Trigonometric Equations,*Statics,*Motion of Particles in a Plane,*Measures of Dispersion and Probabilities)",
+      "rating": "4.5"
+    },
+    {
+      "_id": "07",
+      "course_name": "Secondary Biology",
+      "img_url": "../data/assets/img/biology-1.png",
+      "duration": "10-12 months",
+      "for_class": "9-10",
+      "educator": "Rahman Ujjal",
+      "price": "4400 Tk",
+      "course_details": "*Lesson on Life,*Cell and Tissue of Organism,*Cell Division,*Bioenergetics,*Food, Nutrition, and Digestion,*Transport in Organisms,*Exchange of Gases,*Human Excretion,*Firmness and Locomotion,*Co-ordination Process in Animal,*Reproduction,*Heredity in Organisms and Evolution,*Environment around Life,*Biotechnology",
+      "rating": "4.5"
+    },
+    {
+      "_id": "08",
+      "course_name": "Higher Biology",
+      "img_url": "../data/assets/img/biology-2.png",
+      "duration": "12-14 months",
+      "for_class": "11-12",
+      "educator": "Raihan Sabbir & Jahura Nachima",
+      "price": "5400 Tk",
+      "course_details": "(1.*Cell and its Structure ,*Cell Division ,*Cell Chemistry,*Microorganism,*Algae and fungi,*Bryophyta and Pteridophyta,*Gymnosperm and Angiosperm,*Tissue and Tissue system,*Plant Physiology,*Reproduction of Plants,*Biotechnology,*Environnement Distribution and Conservation of Organisms),(*Animal diversity and Classification,*Animal's Identity,*Human Physiology: Digestion and Absorption,*Human Physiology: Blood and Circulation,*Human Physiology: Respiratory Process and Respiration,*Human Physiology: Excretory Products and Excretion ,*Human Physiology: Locomotion and Movement of Organ,*Human Physiology: Coordination and Control,*Continuance of Human Life,*Immunity of the Human Body,*Genetics and Evolution,*Animal behavior)",
+      "rating": "4.5"
+    }
+  ]
