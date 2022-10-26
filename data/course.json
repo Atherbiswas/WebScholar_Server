@@ -2,7 +2,7 @@
     {
       "_id": "01",
       "course_name": "Secondary Physics",
-      "img_url": "../data/assets/img/physics-1.png",
+      "img_url": "https://www.aakash.ac.in/blog/wp-content/uploads/2022/04/Blog-Image-30.jpg",
       "duration": "10-12 months",
       "for_class": "9-10",
       "educator": "Tahsin Rabiul",
@@ -13,7 +13,7 @@
     {
       "_id": "02",
       "course_name": "Higher Physics",
-      "img_url": "../data/assets/img/physics-2.png",
+      "img_url": "https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/images/articles/df44a5bfec32ecd8011755452d7bed35043923e5.jpg",
       "duration": "12-14 months",
       "for_class": "11-12",
       "educator": "Biswas Farhad & Royal Malek",
@@ -24,7 +24,7 @@
     {
       "_id": "03",
       "course_name": "Secondary Chemistry",
-      "img_url": "../data/assets/img/chemistry-1.png",
+      "img_url": "https://images.ctfassets.net/cnu0m8re1exe/1v6Kh7bIsgVU4PA1Qi44bb/3e8e11c131620bb0080266a01a8cf36c/shutterstock_127915121.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill",
       "duration": "10-12 months",
       "for_class": "9-12",
       "educator": "Mahmud Mohammad",
@@ -35,7 +35,7 @@
     {
       "_id": "04",
       "course_name": "Higher Chemistry",
-      "img_url": "../data/assets/img/chemistry-2.png",
+      "img_url": "https://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
       "duration": "12-14 months",
       "for_class": "11-12",
       "educator": "Ayat Nurjahan & Abdus Arif",
@@ -46,7 +46,7 @@
     {
       "_id": "05",
       "course_name": "Secondary Higher Math",
-      "img_url": "../data/assets/img/higher-math-1.png",
+      "img_url": "https://thumbs.dreamstime.com/b/i-love-math-educational-concept-words-mathematics-formula-doodle-written-chalk-green-chalkboard-52873446.jpg",
       "duration": "10-12 months",
       "for_class": "9-12",
       "educator": "Abdul Arif",
@@ -57,7 +57,7 @@
     {
       "_id": "06",
       "course_name": "Higher Math",
-      "img_url": "../data/assets/img/higher-math-2.png",
+      "img_url": "https://cdn.pixabay.com/photo/2015/11/15/07/47/geometry-1044090__340.jpg",
       "duration": "12-14 months",
       "for_class": "11-12",
       "educator": "Nipah Mahmuda & Noor Jahan",
@@ -68,7 +68,7 @@
     {
       "_id": "07",
       "course_name": "Secondary Biology",
-      "img_url": "../data/assets/img/biology-1.png",
+      "img_url": "https://us.123rf.com/450wm/bimdeedee/bimdeedee1506/bimdeedee150600078/41856655-hand-drawn-biology-on-chalkboard-.jpg?ver=6",
       "duration": "10-12 months",
       "for_class": "9-10",
       "educator": "Rahman Ujjal",
@@ -79,7 +79,7 @@
     {
       "_id": "08",
       "course_name": "Higher Biology",
-      "img_url": "../data/assets/img/biology-2.png",
+      "img_url": "https://img.freepik.com/free-photo/3d-medical-background-with-close-up-dna-strands-low-poly-design_1048-11960.jpg?w=2000",
       "duration": "12-14 months",
       "for_class": "11-12",
       "educator": "Raihan Sabbir & Jahura Nachima",
